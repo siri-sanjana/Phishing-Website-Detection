@@ -6,11 +6,6 @@ An advanced machine learning system for real-time phishing website detection usi
 
 **PhishShield** is a sophisticated cybersecurity tool that leverages machine learning to identify phishing websites through intelligent URL analysis. The system extracts 22 critical features from URLs and employs advanced classification techniques to provide real-time protection against phishing attacks.
 
-## 👨‍💻 Author
-
-**Siri Sanjana S** – [@siri-sanjana](https://github.com/siri-sanjana)  
-📧 sirisanjana.singareddy@gmail.com
-
 ## 🎯 Key Features
 
 - **🚀 Real-time Detection** - Instant phishing website identification
@@ -156,21 +151,3 @@ This project advances cybersecurity research by:
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
-
-## 🤝 Collaboration
-
-I'm interested in exploring collaborations in:
-- Cybersecurity research and development
-- Machine learning applications in security
-- Web protection technologies
-- Threat intelligence and analysis
-
-## 📧 Contact
-
-For questions, collaborations, or opportunities:  
-📧 [sirisanjana.singareddy@gmail.com](mailto:sirisanjana.singareddy@gmail.com)  
-🔗 [GitHub: @siri-sanjana](https://github.com/siri-sanjana)
-
----
-
-**⭐ Star this repository if you find the research valuable!**
