@@ -1,6 +1,6 @@
-# 🔐 PhishShield - AI-Powered Phishing Website Detection
+# 🔐 Phishing Website Detection
 
-An advanced machine learning system for real-time phishing website detection using URL-based feature analysis. Achieves 93.6% accuracy with Random Forest classification and PCA optimization for enhanced cybersecurity protection.
+A machine learning system for real-time phishing website detection using URL-based feature analysis. Achieves 93.6% accuracy with Random Forest classification and PCA optimization for enhanced cybersecurity protection.
 
 ## 🌟 About the Project
 
